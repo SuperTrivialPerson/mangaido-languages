@@ -1,1 +1,10 @@
 ru:
+  sessions:
+    new_form:
+      email_label: "Email"
+      password_label: "Пароль"
+      forgot_password_link: "(забыли пароль?)"
+      remember_me_checkbox: "Запомнить меня"
+      log_in_btn: "Войти"
+      sign_up_link_html: "Зарегистрироваться!"
+      sign_up_text_html: "Новичок? %{sign_up_link_html}"
